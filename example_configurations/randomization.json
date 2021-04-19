@@ -1,0 +1,9 @@
+{
+  "run_type": "data_randomization",
+  "parameters": {
+    "input_file": "path/to/sliced/data.smi",
+    "output_path": "path/to/output/folder",
+    "number_of_files": 30,
+    "number_of_partitions": 1000
+  }
+}

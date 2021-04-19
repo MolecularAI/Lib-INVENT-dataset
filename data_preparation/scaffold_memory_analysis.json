@@ -1,0 +1,13 @@
+{
+  "run_type": "scaffold_memory_analysis",
+  "parameters": {
+    "n_highest": -1,
+    "properties": ["overlap", "decoration_stats"],
+    "input_paths": [
+      "...",
+      "...",
+      "..."
+    ],
+    "output_path": "..."
+  }
+}

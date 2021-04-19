@@ -1,0 +1,9 @@
+{
+  "run_type": "tensorboard_log_extraction",
+  "parameters": {
+    "log_folders": ["path/to/log_folder1"],
+	"output_path": "path/to/output/folder",
+	"output_name": "name_of_output.csv",
+    "properties": ["Average score"]
+  }
+}

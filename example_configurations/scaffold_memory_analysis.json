@@ -1,0 +1,13 @@
+{
+  "run_type": "scaffold_memory_analysis",
+  "parameters": {
+    "n_highest": 5,
+    "properties": ["decorations_heatmap"],
+    "input_paths": [
+      "path/to/log_folder1",
+      "path/to/log_folder2",
+      "path/to/log_folder3"
+    ],
+    "output_path": "path/to/output/folder"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "run_type": "file_shuffling",
+  "parameters": {
+    "directory": "path/to/folder",
+    "n_permutations": 3,
+    "save_permutations": true
+  }
+}

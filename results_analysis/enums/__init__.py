@@ -1,0 +1,1 @@
+from results_analysis.enums.scaffold_memory_property_enum import ScaffoldMemoryPropertyEnum

@@ -1,0 +1,12 @@
+{
+  "run_type": "reaction_validation",
+  "parameters": {
+    "input_path": "path/to/sliced/data.smi",
+    "output_path": "path/to/output/folder",
+    "output_smiles_file": "path/to/failed/smiles/output.smi",
+    "reactions_file": "path/to/reaction.smirks",
+    "failures_limit": 10,
+    "num_partitions": 1000,
+    "max_cuts": 4
+  }
+}

@@ -1,0 +1,9 @@
+{"run_type": "duplicate_removal",
+    "parameters": {
+      "data_path":  "path/to/sliced/data.smi",
+      "output_path": "path/to/output/folder",
+      "save": true,
+      "remove": true
+    }
+}
+

@@ -1,0 +1,7 @@
+{
+  "run_type": "reagent_validation",
+  "parameters": {
+    "input_smarts": "path/to/sliced/data.smi" ,
+    "output_smarts": "path/to/output.csv"
+  }
+}

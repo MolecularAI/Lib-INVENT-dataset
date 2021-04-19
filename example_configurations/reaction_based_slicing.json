@@ -1,0 +1,13 @@
+{
+  "run_type": "reaction_based_slicing",
+  "parameters": {
+    "input_file": "path/to/unsliced/data.smi",
+    "output_path": "path/to/output/folder",
+    "output_smiles_file": "path/to/output/file.smi",
+   "conditions_file": "example_configurations/supporting_files/filter_conditions.json",
+   "reactions_file": "path/to/reaction.smirks",
+    "max_cuts": 4,
+    "number_of_partitions": 1000,
+    "validate_randomization": true
+  }
+}
