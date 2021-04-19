@@ -1,4 +1,4 @@
-Data preparation and handling for the Library Design project
+Data preparation and handling for the Lib-INVENT project
 ========================================================================================================================
 This repository holds the code used for preprocessing and data analysis in the Lib-INVENT project. The code is organised
 in two main folders:
