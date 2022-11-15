@@ -49,5 +49,4 @@ The notebooks give guidance on assembling the JSON input files passed to the inp
 Using the JSONs with the arguments presented in the notebooks, it is possible to completely reproduce the data preprocessing 
 executed during the preparation of the data used for the training of the Lib-INVENT model.
 
-The filtered [ChEMBL data](https://github.com/MolecularAI/Lib-INVENT/blob/main/training_sets/purged_chembl_sliced.smi.gz), as well as the [sliced training dataset](https://github.com/MolecularAI/Lib-INVENT/blob/main/training_sets/chembl_train.gz), obtained by this procedure, are provided in the 
-[Lib-INVENT repository](https://github.com/MolecularAI/Lib-INVENT "Lib-INVENT GitHub").
+The filtered [ChEMBL data](https://zenodo.org/record/6627127/files/chembl_train.gz), as well as the [sliced training dataset](https://zenodo.org/record/6627127/files/purged_chembl_sliced.smi.gz?download=1), obtained by this procedure, are provided at Zenodo. A download script is provided as part of the [Lib-INVENT repository](https://github.com/MolecularAI/Lib-INVENT "Lib-INVENT GitHub").
