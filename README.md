@@ -1,3 +1,5 @@
+**Please note: this repository is no longer being maintained.**
+
 Data preparation and handling for the Lib-INVENT project
 ========================================================================================================================
 This repository holds the code used for preprocessing and data analysis in the Lib-INVENT project 
